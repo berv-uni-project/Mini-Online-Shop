@@ -1,0 +1,7 @@
+Jack Knight | Kemeja | Laki-Laki | Putih | 0.10 | Spandex | 50000 | 10 | 10 | 10 | 10 | 3 | 2
+Nike Shirt | Kemeja | Laki-Laki | Hitam | 0.10 | Spandex | 45000 | 3 | 0 | 18 | 15 | 8 | 5
+Batik Kijang | Kemeja | Laki-Laki | Biru | 0.01 | Spendex | 42000 | 10 | 10 | 10 | 10 | 1 | 0
+Batik Keris | Kemeja | Perempuan | Biru | 0.10 | Spandex | 30000 | 39 | 49 | 9 | 29 | 5 | 10
+Blouse Indah | Blouse | Perempuan | Hijau | 0.10 | Spandex | 30000 | 0 | 1 | 0 | 0 | 0 | 1
+Blouse Kusir | Blouse | Perempuan | Hitam | 0.10 | Spandex | 20000 | 30 | 30 | 10 | 20 | 5 | 4
+Rinder | Kaos Kaki | Laki-Laki | Coklat | 0.05 | Spandex | 10000 | 5 | 10 | 5 | 10 | 2 | 1

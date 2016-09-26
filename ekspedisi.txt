@@ -1,0 +1,3 @@
+JNE | OKE | Bandung | 8000 | 1
+JNE | OKE | Surabaya | 8500 | 2
+JNE | YES | Surabaya | 9000 | 1
